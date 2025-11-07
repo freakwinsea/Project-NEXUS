@@ -1,0 +1,5 @@
+{
+  "name": "Project NEXUS: Autonomous Development Agent",
+  "description": "A user interface simulating an autonomous AI agent that translates natural language development goals into a structured, trackable set of engineering tasks. It showcases intent inference, proactive scaffolding, and task execution progress.",
+  "requestFramePermissions": []
+}
