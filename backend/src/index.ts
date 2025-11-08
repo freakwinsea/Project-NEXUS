@@ -4,7 +4,7 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 import path from 'path';
 import { GoogleGenAI, Type } from "@google/genai";
-import { Task, TaskCategory, TaskStatus } from '../types';
+import { Task, TaskCategory, TaskStatus } from '../../shared/types';
 
 dotenv.config({ path: path.resolve(__dirname, '../.env') });
 
